@@ -109,3 +109,4 @@ To run the debate, simply send a single message (the debate topic) to the root\_
 The LoopAgent will take this prompt and automatically trigger the 5-turn debate, concluding with the moderator's final summary.
 
  ![alt text](img1.png)
+ ![alt text](img2.png)
