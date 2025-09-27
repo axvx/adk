@@ -107,3 +107,5 @@ To run the debate, simply send a single message (the debate topic) to the root\_
 > "Discuss the ethical and practical trade-offs of using Large Language Models (LLMs) for automated security analysis and penetration testing."
 
 The LoopAgent will take this prompt and automatically trigger the 5-turn debate, concluding with the moderator's final summary.
+
+ ![alt text](img1.png)
